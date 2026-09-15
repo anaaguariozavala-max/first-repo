@@ -1,2 +1,2 @@
 # first-repo
-print("hello")
+echo "hello" > README.md
